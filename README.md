@@ -30,8 +30,5 @@ python holiday_cost_calculator.py
 # Dependencies
 This project requires Python 3.x to run.
 
-# Contributors
-Amy Pape 
-
-# License
-This project is licensed under the MIT License.
+# :busts_in_silhouette:Contributing:busts_in_silhouette:	
+Contributions are welcome! If you have any improvements or additional examples to add, please feel free to submit a pull request.
