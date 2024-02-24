@@ -13,7 +13,7 @@ This project is a simple program designed to calculate the total cost of a user'
 
 :money_mouth_face:	**Total Holiday Cost:** After calculating individual costs, the program provides the total holiday cost by summing up hotel, plane, and car rental expenses.
 
-family_woman_woman_girl_boy **Option for Multiple Travelers:** Users can input the number of travelers, and the program adjusts costs accordingly.
+:family_woman_woman_girl_boy: **Option for Multiple Travelers:** Users can input the number of travelers, and the program adjusts costs accordingly.
 
 
 # :footprints: How to Use :footprints:	
@@ -27,7 +27,7 @@ python holiday_cost_calculator.py
 **View Results:** Once all inputs are provided, the program will display the calculated costs and the total holiday cost.
 
 
-# Dependencies
+## Dependencies
 This project requires Python 3.x to run.
 
 # :busts_in_silhouette:Contributing:busts_in_silhouette:	
